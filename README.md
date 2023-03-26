@@ -1,1 +1,13 @@
 # Zero2Hero-Bsc-
+BNB训练营第一次作业(顶掉前一个版)
+
+前一次作业因部分原因，无法在bsc测试链上部署，所以在SepoliaETH链上部署的
+今天测试了下，bsc测试链已经能正常部署，故重交作业
+ 
+1. ZT币合约(LPToken):0x1256485aE6fe1a1cCE354c1E5310A6b6D54BAFdE
+2. SushiToken合约:0xBb93456733Ffb291E958A884A7f083D3Cee44116
+3. MasterChep业务合约:0x90FAA28bb9fB866ed71daF12f7cf7E1C19Ed0740
+4. SushiToken合约owner设置成为该MasterChep:0xa0b0efb636c752c88d494ae06adc57cdc932ae7de1ad5f37cd97c56c1aaf33d2
+5. 授权Masterchef合约6666 * 精度的token数量:0xb387108c13b525fb0630ccb5f34c4da6d2e4ba9e807a72b287111fb9ddcc1a42
+6. 代币添加到质押池:0x5aab4325946a4f0fa5287b8ea57cdab2e255b65d23d8cb23be57275e4c7b8180
+7. 质押55555 * 精度个ZT币:0x4ceead44378f5ec59d0129b43f553276868bb62fc2f15352825b7c2861789d3d
